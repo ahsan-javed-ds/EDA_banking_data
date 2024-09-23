@@ -4,5 +4,7 @@ numpy
 pandas
 seaborn
 io
+scipy
+scikit-learn
 scipy.stats
 sklearn.preprocessing
